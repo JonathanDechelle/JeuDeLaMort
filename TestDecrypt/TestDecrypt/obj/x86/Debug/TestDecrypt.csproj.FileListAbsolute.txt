@@ -1,0 +1,11 @@
+Z:\TestDecrypt\TestDecrypt\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TestDecrypt\TestDecrypt\obj\x86\Debug\TestDecrypt.Properties.Resources.resources
+Z:\TestDecrypt\TestDecrypt\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\TestDecrypt\TestDecrypt\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\TestDecrypt\TestDecrypt\bin\Debug\TestDecrypt.exe
+Z:\TestDecrypt\TestDecrypt\bin\Debug\TestDecrypt.pdb
+Z:\TestDecrypt\TestDecrypt\obj\x86\Debug\TestDecrypt.exe
+Z:\TestDecrypt\TestDecrypt\obj\x86\Debug\TestDecrypt.pdb
+Z:\TestDecrypt\TestDecrypt\obj\x86\Debug\TestDecrypt.Form1.resources
+D:\Jo\Jeux\Jeu De la  mort\TestDecrypt\TestDecrypt\obj\x86\Debug\TestDecrypt.exe
+D:\Jo\Jeux\Jeu De la  mort\TestDecrypt\TestDecrypt\obj\x86\Debug\TestDecrypt.pdb

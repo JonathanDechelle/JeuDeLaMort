@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{06028DD2-A2C2-4F05-893E-80AF66CB8ADE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jeu</RootNamespace>
+    <AssemblyName>Jeu</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Iicone.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cActionMechant.cs" />
+    <Compile Include="cArme.cs" />
+    <Compile Include="cGrilleNiveau.cs" />
+    <Compile Include="dChoix du personage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dChoix du personage.Designer.cs">
+      <DependentUpon>dChoix du personage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cCryptage.cs" />
+    <Compile Include="dChoixArmeCombat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dChoixArmeCombat.Designer.cs">
+      <DependentUpon>dChoixArmeCombat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dChoixEnnemiAParalyser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dChoixEnnemiAParalyser.Designer.cs">
+      <DependentUpon>dChoixEnnemiAParalyser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dCredits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dCredits.Designer.cs">
+      <DependentUpon>dCredits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dJeu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dJeu.Designer.cs">
+      <DependentUpon>dJeu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dMagasin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dMagasin.Designer.cs">
+      <DependentUpon>dMagasin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dMagasinRunes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dMagasinRunes.Designer.cs">
+      <DependentUpon>dMagasinRunes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dMenuEntrée.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dMenuEntrée.Designer.cs">
+      <DependentUpon>dMenuEntrée.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cMonstre.cs" />
+    <Compile Include="cPersonnage.cs" />
+    <Compile Include="dMonde 2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dMonde 2.Designer.cs">
+      <DependentUpon>dMonde 2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dMonde 3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dMonde 3.Designer.cs">
+      <DependentUpon>dMonde 3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dMonde 1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dMonde 1.Designer.cs">
+      <DependentUpon>dMonde 1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cProgram.cs" />
+    <Compile Include="dLevelUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dLevelUp.Designer.cs">
+      <DependentUpon>dLevelUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dNiveauFinale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dNiveauFinale.Designer.cs">
+      <DependentUpon>dNiveauFinale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="dSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dSetting.Designer.cs">
+      <DependentUpon>dSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dUnivers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dUnivers.Designer.cs">
+      <DependentUpon>dUnivers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="dChoix du personage.resx">
+      <DependentUpon>dChoix du personage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dChoixArmeCombat.resx">
+      <DependentUpon>dChoixArmeCombat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dChoixEnnemiAParalyser.resx">
+      <DependentUpon>dChoixEnnemiAParalyser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dCredits.resx">
+      <DependentUpon>dCredits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dJeu.resx">
+      <DependentUpon>dJeu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dMagasin.resx">
+      <DependentUpon>dMagasin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dMagasinRunes.resx">
+      <DependentUpon>dMagasinRunes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dMenuEntrée.resx">
+      <DependentUpon>dMenuEntrée.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dMonde 2.resx">
+      <DependentUpon>dMonde 2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dMonde 3.resx">
+      <DependentUpon>dMonde 3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dMonde 1.resx">
+      <DependentUpon>dMonde 1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dLevelUp.resx">
+      <DependentUpon>dLevelUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dNiveauFinale.resx">
+      <DependentUpon>dNiveauFinale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="dSetting.resx">
+      <DependentUpon>dSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dUnivers.resx">
+      <DependentUpon>dUnivers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jicone.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Arme\PlasmaGun.jpg" />
+    <None Include="bin\Debug\Arme\Zat.jpg" />
+    <Content Include="Iicone.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

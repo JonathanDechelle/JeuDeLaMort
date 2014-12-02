@@ -1,0 +1,136 @@
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.exe
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.pdb
+E:\Jeu De la  mort\Jeu\Jeu\bin\Debug\Jeu.exe
+E:\Jeu De la  mort\Jeu\Jeu\bin\Debug\Jeu.pdb
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Choix_du_personage.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Properties.Resources.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\bin\Debug\Jeu.exe
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\bin\Debug\Jeu.pdb
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Choix_du_personage.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Properties.Resources.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.exe
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.pdb
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.exe
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.pdb
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\bin\Debug\Jeu.exe
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\bin\Debug\Jeu.pdb
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Choix_du_personage.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Properties.Resources.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Monde_2.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dJeu.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasin.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMenuEntrée.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_1.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dSetting.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dUnivers.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasinRunes.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_3.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dJeu.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasin.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasinRunes.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMenuEntrée.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Monde_2.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_3.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_1.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dSetting.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dUnivers.resources
+F:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.exe
+F:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.pdb
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dJeu.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasin.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasinRunes.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMenuEntrée.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Monde_2.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_3.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_1.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dSetting.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dUnivers.resources
+E:\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.LevelUp.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dLevelUp.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixArmeCombat.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.exe
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.pdb
+C:\Users\Usager\Desktop\Jeu\Jeu\bin\Debug\Jeu.exe
+C:\Users\Usager\Desktop\Jeu\Jeu\bin\Debug\Jeu.pdb
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.Choix_du_personage.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixArmeCombat.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dJeu.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasin.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasinRunes.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dMenuEntrée.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.Monde_2.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_3.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_1.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dLevelUp.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.Properties.Resources.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dSetting.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dUnivers.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixArmeCombat.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dLevelUp.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixEnnemiAParalyser.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixEnnemiAParalyser.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dNiveauFinale.resources
+C:\Users\Jonathan\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dCredits.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dCredits.resources
+C:\Users\Usager\Desktop\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dNiveauFinale.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixEnnemiAParalyser.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dCredits.resources
+C:\Users\Usager\Desktop\Jeu\Jeu\obj\x86\Debug\Jeu.dNiveauFinale.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.exe
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.pdb
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\bin\Debug\Jeu.exe
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\bin\Debug\Jeu.pdb
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Choix_du_personage.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixArmeCombat.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixEnnemiAParalyser.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dCredits.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dJeu.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasin.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasinRunes.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMenuEntrée.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Monde_2.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_3.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_1.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dLevelUp.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dNiveauFinale.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.Properties.Resources.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dSetting.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.dUnivers.resources
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Jo\Jeux\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Jo\Jeux\Mes Creations\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.exe
+D:\Jo\Jeux\Mes Creations\Jeu De la  mort\Jeu\Jeu\obj\x86\Debug\Jeu.pdb
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.exe
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.pdb
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\bin\Debug\Jeu.exe
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\bin\Debug\Jeu.pdb
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.Choix_du_personage.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixArmeCombat.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dChoixEnnemiAParalyser.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dCredits.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dJeu.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasin.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dMagasinRunes.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dMenuEntrée.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.Monde_2.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_3.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dMonde_1.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dLevelUp.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dNiveauFinale.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.Properties.Resources.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dSetting.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.dUnivers.resources
+C:\Users\Joyvax\Desktop\Jeu De la  mort(2011)\Jeu\Jeu\obj\x86\Debug\Jeu.csproj.GenerateResource.Cache
